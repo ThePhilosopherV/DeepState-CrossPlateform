@@ -364,4 +364,4 @@ Type 'list' to get language numbers.
 
 def main():
     
-    return rextester(icon='dp.png')
+    return rextester()
