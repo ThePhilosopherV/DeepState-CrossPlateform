@@ -1,2 +1,2 @@
-# DeepState-CrossPlateform
-Cross plateform program
+# DeepState-CrossPlatform
+Cross plateform program created using beeware toolkit
