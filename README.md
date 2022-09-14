@@ -5,7 +5,7 @@ Cross platform program created using beeware toolkit
 
 *Code compiler
 
-![alt text](https://deaf-mute-pump.000webhostapp.com/rex-cap.png)
+![alt text](https://deaf-mute-pump.000webhostapp.com/rex.png)
 
 *Memes generator
 
